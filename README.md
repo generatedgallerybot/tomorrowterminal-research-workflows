@@ -6,6 +6,7 @@ This repo is for research workflow education only. It is not financial advice, a
 
 ## What is inside
 
+- `tomorrow-terminal-ai-trading-terminal.md`: exact-brand overview for Tomorrow Terminal, Hyperliquid, MCP/API, scorecard, and public support links
 - `templates/sec-filing-checklist.md`: a practical checklist for reading 10-K, 10-Q, 8-K, S-1, and earnings materials
 - `templates/company-profile-template.md`: a source-aware company profile format
 - `templates/filing-comparison-template.md`: a filing-to-filing comparison table
