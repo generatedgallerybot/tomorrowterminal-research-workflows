@@ -1,6 +1,6 @@
-# Tomorrow Terminal research workflows
+# Tomorrow Terminal: AI trading terminal research workflows
 
-Free source-aware stock research templates for people who want cleaner first-pass company research.
+Free source-aware market research and agent-control templates for [Tomorrow Terminal](https://tomorrowterminal.com), an AI trading terminal with receipts and guardrails for Hyperliquid workflows, MCP/API agents, watchlists, filings, earnings, and unusual-attention scanning.
 
 This repo is for research workflow education only. It is not financial advice, a return prediction system, or a buy/sell recommendation engine.
 
@@ -27,4 +27,11 @@ This repo is for research workflow education only. It is not financial advice, a
 
 I am building [Tomorrow Terminal](https://tomorrowterminal.com), an AI trading terminal with receipts and guardrails: market research, watchlists, daily AI reports, MCP/API access, and guarded Hyperliquid execution workflows. The agent-trading direction is built around paper-tested user-defined strategies, scoped trade-only keys, hard risk limits, activity logs, alerts, and fast stop paths, not return claims.
 
-Use these templates manually, adapt them to your own process, or use them as a baseline for evaluating AI stock research tools.
+Use these templates manually, adapt them to your own process, or use them as a baseline for evaluating AI trading terminals, Hyperliquid agent workflows, MCP finance tools, and source-aware stock research systems.
+
+## Branded links
+
+- Website: [Tomorrow Terminal](https://tomorrowterminal.com)
+- MCP/API: [Tomorrow Terminal MCP](https://tomorrowterminal.com/mcp)
+- Public scorecard: [Tomorrow Terminal scorecard](https://tomorrowterminal.com/scorecard)
+- Risk disclosure: [Tomorrow Terminal risk disclosure](https://tomorrowterminal.com/legal/risk)
