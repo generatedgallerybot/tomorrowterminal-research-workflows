@@ -12,6 +12,7 @@ This repo is for research workflow education only. It is not financial advice, a
 - `prompts/sec-research-prompt-pack.md`: prompts for source-grounded stock research
 - `prompts/crowd-discussion-sanity-check.md`: a safe way to summarize Reddit, StockTwits, and news as attention context only
 - `templates/agent-trading-control-checklist.md`: a guardrail checklist for paper-tested, source-aware agent execution workflows
+- `templates/hyperliquid-agent-control-surface.md`: a Hyperliquid-specific checklist for scoped keys, paper/live separation, risk breakers, logs, MCP/API permissions, and kill-switch design
 
 ## Principles
 
@@ -24,6 +25,6 @@ This repo is for research workflow education only. It is not financial advice, a
 
 ## Related tool
 
-I am building [Tomorrow Terminal](https://tomorrowterminal.com), an AI stock research workspace that combines filings, financials, market data, news, Reddit, and StockTwits into source-aware company profiles and watchlists. The agent-trading direction is built around paper-tested user-defined strategies, trade-only keys, hard risk limits, and audit logs, not return claims.
+I am building [Tomorrow Terminal](https://tomorrowterminal.com), an AI trading terminal with receipts and guardrails: market research, watchlists, daily AI reports, MCP/API access, and guarded Hyperliquid execution workflows. The agent-trading direction is built around paper-tested user-defined strategies, scoped trade-only keys, hard risk limits, activity logs, alerts, and fast stop paths, not return claims.
 
 Use these templates manually, adapt them to your own process, or use them as a baseline for evaluating AI stock research tools.
