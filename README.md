@@ -36,3 +36,4 @@ Use these templates manually, adapt them to your own process, or use them as a b
 - MCP/API: [Tomorrow Terminal MCP](https://tomorrowterminal.com/mcp)
 - Public scorecard: [Tomorrow Terminal scorecard](https://tomorrowterminal.com/scorecard)
 - Risk disclosure: [Tomorrow Terminal risk disclosure](https://tomorrowterminal.com/legal/risk)
+- DEV post: [Tomorrow Terminal needs receipts, rails, and a stop button](https://dev.to/gandalfthegato/ai-trading-agents-need-receipts-rails-and-a-stop-button-4o9g)

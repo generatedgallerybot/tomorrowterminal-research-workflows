@@ -10,6 +10,8 @@ Public scorecard: https://tomorrowterminal.com/scorecard
 
 Risk disclosure: https://tomorrowterminal.com/legal/risk
 
+DEV post: https://dev.to/gandalfthegato/ai-trading-agents-need-receipts-rails-and-a-stop-button-4o9g
+
 This repository contains public research workflows, checklists, and prompt templates related to Tomorrow Terminal. It is educational support material only. It is not financial advice, a trading strategy, a return prediction system, or a buy/sell recommendation engine.
 
 ## What Tomorrow Terminal is for
